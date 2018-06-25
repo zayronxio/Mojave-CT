@@ -16,7 +16,7 @@
    height="136.53333"
    viewBox="0 0 136.53333 136.53333"
    sodipodi:docname="rhythmbox.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,28 +79,6 @@
          offset="1"
          id="stop840" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient826">
-      <stop
-         style="stop-color:#fcfcfc;stop-opacity:0.94818652"
-         offset="0"
-         id="stop822" />
-      <stop
-         style="stop-color:#ededed;stop-opacity:0.91709846"
-         offset="1"
-         id="stop824" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient826"
-       id="linearGradient836"
-       x1="206.93942"
-       y1="21.78548"
-       x2="208.28004"
-       y2="124.46537"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-140.72463,-2.4544993)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient842-3"
@@ -195,14 +173,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="3.4570315"
-     inkscape:cx="79.905318"
+     inkscape:cx="24.221706"
      inkscape:cy="52.469272"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <circle
@@ -210,7 +188,7 @@
      cx="68.112343"
      cy="69.239136"
      r="64.021523"
-     style="fill:url(#linearGradient836);fill-opacity:1;stroke:url(#linearGradient846);stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94818654" />
+     style="fill:#ffffff;fill-opacity:0.99543381;stroke:url(#linearGradient846);stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94818654" />
   <g
      id="g1106"
      style="filter:url(#filter1120)">
