@@ -15,7 +15,7 @@
    width="128"
    height="128"
    viewBox="0 0 128 128"
-   sodipodi:docname="opera.svg"
+   sodipodi:docname="opera-beta.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
@@ -33,19 +33,7 @@
      id="defs6">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient943">
-      <stop
-         style="stop-color:#ec9593;stop-opacity:1"
-         offset="0"
-         id="stop939" />
-      <stop
-         style="stop-color:#ec3444;stop-opacity:1"
-         offset="1"
-         id="stop941" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient943"
+       xlink:href="#linearGradient4019"
        id="linearGradient945"
        x1="69.324593"
        y1="24.412661"
@@ -144,19 +132,19 @@
        id="linearGradient4019">
       <stop
          offset="0"
-         style="stop-color:#adcce1;stop-opacity:1;"
+         style="stop-color:#bfd9eb;stop-opacity:1"
          id="stop4021" />
       <stop
          offset="0.26238"
-         style="stop-color:#6bbfe1;stop-opacity:1;"
+         style="stop-color:#7dcbeb;stop-opacity:1"
          id="stop4023" />
       <stop
          offset="0.74620908"
-         style="stop-color:#2596d1;stop-opacity:1;"
+         style="stop-color:#27acdc;stop-opacity:1"
          id="stop4025" />
       <stop
          offset="1"
-         style="stop-color:#2372c0;stop-opacity:1;"
+         style="stop-color:#2793d6;stop-opacity:1"
          id="stop4027" />
     </linearGradient>
     <linearGradient
@@ -675,7 +663,7 @@
      cx="64.614243"
      cy="64.171577"
      r="59.876759"
-     style="fill:url(#linearGradient945);fill-opacity:1;stroke:#fffff8;stroke-width:5.61155939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:url(#linearGradient945);fill-opacity:1.0;stroke:#fffff8;stroke-width:5.61155939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="path4937"
      d="m 52.147449,42.825775 c 3.474723,-4.100324 7.966989,-6.580115 12.866273,-6.580115 v 0 c 11.027158,0 19.966466,12.504479 19.966466,27.91838 v 0 c 0,15.421438 -8.939308,27.91838 -19.966466,27.91838 v 0 c -4.906821,0 -9.39155,-2.472254 -12.866273,-6.572577 v 0 c 5.434437,7.054968 13.506949,11.53216 22.529168,11.53216 v 0 c 5.547497,0 10.740738,-1.695906 15.180243,-4.635476 v 0 c 7.755943,-6.934371 12.63261,-17.011821 12.63261,-28.23495 v 0 c 0,-11.215591 -4.876667,-21.300578 -12.63261,-28.234949 v 0 C 85.417355,32.98952 80.224114,31.301152 74.676617,31.301152 v 0 c -9.022219,0 -17.094731,4.477191 -22.529168,11.53216"
