@@ -16,7 +16,7 @@
    height="512"
    viewBox="0 0 512 512"
    sodipodi:docname="libreoffice-base.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -423,6 +423,19 @@
        gradientTransform="matrix(-.062142,0,0,.029001,46.53201,28.085503)"
        cy="486.64789"
        cx="605.71429" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4846"
+       x="-0.27494971"
+       width="1.5498994"
+       y="-0.20549187"
+       height="1.4109837">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="16.133919"
+         id="feGaussianBlur4848" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -434,14 +447,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.58010118"
-     inkscape:cx="193.97497"
+     inkscape:cx="-136.13986"
      inkscape:cy="243.16191"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <rect
@@ -475,6 +488,18 @@
      y="49.945267"
      transform="rotate(-8.6391109)"
      style="opacity:1;fill:url(#linearGradient835);fill-opacity:1;stroke:none;stroke-width:5.29038143" />
+  <text
+     transform="rotate(-7.9783539)"
+     id="text4828"
+     y="379.69144"
+     x="95.019592"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:242.00080872px;line-height:1.25;font-family:'TeX Gyre Heros Cn';-inkscape-font-specification:'TeX Gyre Heros Cn Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:#64285b;fill-opacity:1;stroke:none;stroke-width:2.52084184;filter:url(#filter4846)"
+     xml:space="preserve"><tspan
+       style="stroke-width:2.52084184;fill:#64285b;fill-opacity:1;"
+       y="379.69144"
+       x="95.019592"
+       id="tspan4826"
+       sodipodi:role="line">B</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:242.00080872px;line-height:1.25;font-family:'TeX Gyre Heros Cn';-inkscape-font-specification:'TeX Gyre Heros Cn Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.52084184"
