@@ -14,8 +14,8 @@
    width="128"
    height="128"
    viewBox="0 0 128 128"
-   sodipodi:docname="terminal.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   sodipodi:docname="xterminator.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,14 +54,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="3.9111843"
-     inkscape:cx="72.228957"
+     inkscape:cx="21.09355"
      inkscape:cy="80.784108"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <rect
@@ -70,7 +70,7 @@
      height="105.1398"
      x="4.1029"
      y="12.379148"
-     style="fill:#1a1a1a;stroke:#dcdcdc;stroke-width:1.64826405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#1a1a1a;stroke:#3a3a3a;stroke-width:1.64826405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      ry="5.959825" />
   <path
      style="fill:#333333;stroke:none;stroke-width:1.64826405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
