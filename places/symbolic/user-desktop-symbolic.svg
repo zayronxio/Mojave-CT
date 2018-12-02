@@ -12,7 +12,7 @@
    id="svg7384"
    sodipodi:docname="user-desktop-symbolic.svg"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    height="36"
    width="36">
   <metadata
@@ -46,26 +46,28 @@
      id="namedview88"
      showgrid="false"
      inkscape:window-maximized="0"
-     inkscape:window-x="67"
+     inkscape:window-x="48"
      inkscape:snap-global="true"
      inkscape:window-y="34"
      gridtolerance="10"
      inkscape:window-height="690"
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer13"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="5.2224177"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-23.945737"
      inkscape:snap-grids="true"
      inkscape:pageopacity="1">
     <inkscape:grid
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
        type="xygrid"
        snapvisiblegridlinesonly="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -99,17 +101,17 @@
      id="layer13">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.813;fill:#000000;fill-opacity:1"
+       style="opacity:1;fill:#3a3a3a;fill-opacity:0.69767439"
        d="M 446.10352,160 C 443.83014,160 442,161.83014 442,164.10352 l 0,19.79296 c 0,2.27338 1.83014,4.10352 4.10352,4.10352 l 27.79296,0 C 476.16986,188 478,186.16986 478,183.89648 l 0,-19.79296 C 478,161.83014 476.16986,160 473.89648,160 l -27.79296,0 z m -0.11719,2 28.02734,0 c 1.10029,0 1.98633,0.88604 1.98633,1.98633 l 0,0.0137 -32,0 0,-0.0137 C 444,162.88604 444.88604,162 445.98633,162 Z M 444,166 l 32,0 0,18.01367 C 476,185.11396 475.11396,186 474.01367,186 l -28.02734,0 C 444.88604,186 444,185.11396 444,184.01367 L 444,166 Z"
        id="rect4156" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.2;fill:#000000;fill-opacity:0.90196078"
+       style="opacity:1;fill:#575757;fill-opacity:0.47093022"
        d="m 444,166 0,18.01367 c 0,1.10029 0.88604,1.98633 1.98633,1.98633 l 6.01367,0 0,-4 16,0 0,4 6.01367,0 C 475.11396,186 476,185.11396 476,184.01367 L 476,166 l -32,0 z"
        id="rect4169" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#535353;fill-opacity:0.71511626;stroke:none"
        d="M 450.97266,181 C 450.43402,181 450,181.43402 450,181.97266 l 0,4.02734 2,0 0,-4 4,0 0,4 2,0 0,-4 4,0 0,4 2,0 0,-4 4,0 0,4 2,0 0,-4.02734 C 470,181.43402 469.56598,181 469.02734,181 l -18.05468,0 z"
        id="rect4175" />
   </g>
