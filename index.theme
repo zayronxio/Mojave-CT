@@ -190,31 +190,34 @@ MaxSize=512
 Type=Scalable
 
 
+########places###########
 
 [places/22]
 Size=22
 Context=Places
-Type=Scalable
+Type=Fixed
 
 [places/24]
 Size=24
 Context=Places
-Type=Scalable
+Type=Fixed
 
 
 [places/128]
 Size=128
 Context=Places
 MinSize=32
-MaxSize=128
+MaxSize=512
 Type=Scalable
 
 [places/symbolic]
-Size=16
+Size=22
 Context=Places
 MinSize=8
 MaxSize=24
-Type=fixed
+Type=Scalable
+
+#########################
 
 [status/16]
 Size=16

@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="128"
@@ -22,11 +23,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs22" />
+     id="defs22">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient824">
+      <stop
+         style="stop-color:#7838c8;stop-opacity:1"
+         offset="0"
+         id="stop820" />
+      <stop
+         style="stop-color:#a87cff;stop-opacity:1"
+         offset="1"
+         id="stop822" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient824"
+       id="linearGradient826"
+       x1="66.530045"
+       y1="122.26002"
+       x2="64.333595"
+       y2="5.9833865"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,7 +65,7 @@
      id="namedview20"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="64"
+     inkscape:cx="-48.271186"
      inkscape:cy="64"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -50,10 +74,10 @@
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
-     x1="64.42871085545"
-     x2="63.70264686264"
-     y1="9.49702762746"
-     y2="114.03049919903">
+     x1="215.86441"
+     x2="213.69492"
+     y1="145.8983"
+     y2="144.27118">
     <stop
        offset="0"
        stop-color="#a87cff"
@@ -80,7 +104,7 @@
        id="stop9" />
   </linearGradient>
   <path
-     style="fill:url(#a);stroke:#cccdd1;stroke-width:4.64485502"
+     style="fill:url(#linearGradient826);stroke:#cccdd1;stroke-width:4.64485502;fill-opacity:1"
      d="M 124.89873,64.22612 A 60.565502,60.565502 0 0 1 64.333229,124.79162 60.565502,60.565502 0 0 1 3.7677269,64.22612 60.565502,60.565502 0 0 1 64.333229,3.6606178 60.565502,60.565502 0 0 1 124.89873,64.22612 Z"
      id="circle12" />
   <path
