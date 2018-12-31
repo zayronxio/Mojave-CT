@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=MacOs-sierra
+Name=MacOs-sierra-CT
 Comment=icon theme with appearance an MACOS SIERRA
 
 Inherits=Adwaita,breeze,breeze-dark,hicolor,gnome
