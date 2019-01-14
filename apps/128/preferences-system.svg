@@ -12,8 +12,8 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg88"
-   sodipodi:docname="unity-tweak-tool.svg"
-   inkscape:version="0.92.1 r15371">
+   sodipodi:docname="xfce-ui.svg"
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata94">
     <rdf:RDF>
@@ -101,11 +101,11 @@
      id="namedview90"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="75.254116"
-     inkscape:cy="75.056112"
+     inkscape:zoom="3.6874999"
+     inkscape:cx="48.71612"
+     inkscape:cy="89.534974"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg88" />
   <linearGradient
@@ -128,11 +128,13 @@
     <stop
        offset="0"
        stop-color="#cad1d4"
-       id="stop7" />
+       id="stop7"
+       style="stop-color:#e2e6e8;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#8c8a88"
-       id="stop9" />
+       id="stop9"
+       style="stop-color:#838d91;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="c"
