@@ -13,7 +13,7 @@
    version="1.1"
    id="svg29"
    sodipodi:docname="kopete.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,11 +32,11 @@
        inkscape:collect="always"
        id="linearGradient924">
       <stop
-         style="stop-color:#2071e5;stop-opacity:1"
+         style="stop-color:#1566d9;stop-opacity:1"
          offset="0"
          id="stop920" />
       <stop
-         style="stop-color:#9cd2f6;stop-opacity:1"
+         style="stop-color:#57b9fa;stop-opacity:1"
          offset="1"
          id="stop922" />
     </linearGradient>
@@ -60,14 +60,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1031"
      id="namedview31"
      showgrid="false"
      inkscape:zoom="2.6074563"
-     inkscape:cx="84.071436"
+     inkscape:cx="10.052938"
      inkscape:cy="40.263086"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg29"
      showguides="false" />
@@ -132,25 +132,25 @@
      id="path19" />
   <g
      id="g27-6"
-     style="fill:#5ca6dc;fill-opacity:1"
+     style="fill:#1183d6;fill-opacity:1"
      transform="translate(-0.5825396,0.88167752)">
     <circle
        cx="70.553322"
        cy="89.150284"
        r="5.6177268"
        id="circle21-2"
-       style="fill:#5ca6dc;fill-opacity:1" />
+       style="fill:#1183d6;fill-opacity:1" />
     <circle
        cx="87.46492"
        cy="89.150284"
        r="5.6177268"
        id="circle23-6"
-       style="fill:#5ca6dc;fill-opacity:1" />
+       style="fill:#1183d6;fill-opacity:1" />
     <circle
        cx="104.72781"
        cy="89.150284"
        r="5.6177268"
        id="circle25-1"
-       style="fill:#5ca6dc;fill-opacity:1" />
+       style="fill:#1183d6;fill-opacity:1" />
   </g>
 </svg>

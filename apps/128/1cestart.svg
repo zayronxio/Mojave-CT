@@ -16,7 +16,7 @@
    height="136.53333"
    viewBox="0 0 136.53333 136.53333"
    sodipodi:docname="1cestart.svg"
-   inkscape:version="0.91 r13725">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,11 +84,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1031"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="3.4570315"
-     inkscape:cx="57.483128"
+     inkscape:cx="1.6548834"
      inkscape:cy="48.510001"
      inkscape:window-x="0"
      inkscape:window-y="26"
@@ -115,5 +115,5 @@
      id="path4150-3"
      d="m 28.558654,46.563492 0,9.689968 9.689969,0 0,33.914891 9.689968,0 0,-43.604859 -19.379937,0 z m 48.449844,0 c -12.04124,0 -21.80243,9.76119 -21.80243,21.802429 0,11.959602 9.632556,21.657323 21.561149,21.788137 l 0,0.01429 28.965733,0 c 1.53804,-3.05767 2.74662,-6.299449 3.61484,-9.689969 l -32.337839,0 c -6.68947,0 -12.112461,-5.422991 -12.112461,-12.112461 0,-6.68947 5.422991,-12.112461 12.112461,-12.112461 4.810585,0.0061 9.161625,2.858541 11.085805,7.267477 l 10.149028,0 C 95.984604,53.608099 87.176426,46.573182 77.009224,46.563492 Z"
      inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
+     style="fill:#444444;fill-opacity:1" />
 </svg>
