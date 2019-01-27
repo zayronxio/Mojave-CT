@@ -8,7 +8,7 @@ Example=directory-x-normal
 KDE-Extensions=.svg
 
 #Directory list
-Directories=actions/16,actions/16-fixed,actions/22-night,actions/symbolic,actions/scalable,animations/16,animations/22,animations/24,animations/32,animations/48,animations/64,animations/128,apps/128,apps/512,categories/128,places/22,places/24,places/128,places/symbolic,mimes/scalable,devices/128,devices/symbolic,emblems/16,emblems/22,emblems/24,emblems/32,emblems/48,emblems/64,emblems/128,status/16,status/22,status/24,status/32,status/48,status/64,status/128,notifications/16,notifications/22,notifications/24,notifications/32,notifications/48,panel/16,panel/24,stock/16,stock/22,stock/24,stock/32,stock/48,tools/22
+Directories=actions/16,actions/16-fixed,actions/22,actions/symbolic,actions/scalable,animations/16,animations/22,animations/24,animations/32,animations/48,animations/64,animations/128,apps/128,apps/512,categories/128,places/22,places/24,places/128,places/symbolic,mimes/scalable,devices/128,devices/symbolic,emblems/16,emblems/22,emblems/24,emblems/32,emblems/48,emblems/64,emblems/128,status/16,status/22,status/24,status/32,status/48,status/64,status/128,notifications/16,notifications/22,notifications/24,notifications/32,notifications/48,panel/16,panel/24,stock/16,stock/22,stock/24,stock/32,stock/48,tools/22
 
 [actions/16]
 Size=16
