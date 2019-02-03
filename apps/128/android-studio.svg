@@ -25,12 +25,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs6">
+    <linearGradient
+       id="linearGradient912"
+       inkscape:collect="always">
+      <stop
+         id="stop908"
+         offset="0"
+         style="stop-color:#62e895;stop-opacity:1" />
+      <stop
+         id="stop910"
+         offset="1"
+         style="stop-color:#00b181;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1391">
@@ -47,17 +59,17 @@
        inkscape:collect="always"
        id="linearGradient988">
       <stop
-         style="stop-color:#89eeaf;stop-opacity:1"
+         style="stop-color:#51e689;stop-opacity:1"
          offset="0"
          id="stop984" />
       <stop
-         style="stop-color:#00d59c;stop-opacity:1"
+         style="stop-color:#00a87b;stop-opacity:1"
          offset="1"
          id="stop986" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient988"
+       xlink:href="#linearGradient912"
        id="linearGradient825"
        x1="102.27081"
        y1="146.5052"
@@ -330,7 +342,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.9555921"
-     inkscape:cx="80.32655"
+     inkscape:cx="-3.7911962"
      inkscape:cy="52.172273"
      inkscape:window-x="0"
      inkscape:window-y="26"
