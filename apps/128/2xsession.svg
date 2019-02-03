@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="170.66667"
-   height="170.66667"
-   viewBox="0 0 170.66667 170.66667"
-   sodipodi:docname="2xsession.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="remmina.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata8">
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -223,9 +223,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient825"
        id="linearGradient827"
-       x1="245.03837"
+       x1="245.03838"
        y1="101.25722"
-       x2="350.01075"
+       x2="350.01074"
        y2="101.25722"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-60.336857,0.80357)" />
@@ -244,9 +244,9 @@
        xlink:href="#linearGradient938"
        id="linearGradient940"
        x1="77.489861"
-       y1="77.005055"
-       x2="99.933043"
-       y2="77.005055"
+       y1="77.005058"
+       x2="99.933044"
+       y2="77.005058"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -272,9 +272,9 @@
        id="linearGradient986"
        gradientUnits="userSpaceOnUse"
        x1="77.489861"
-       y1="77.005055"
-       x2="99.933043"
-       y2="77.005055" />
+       y1="77.005058"
+       x2="99.933044"
+       y2="77.005058" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient994"
@@ -338,8 +338,8 @@
      inkscape:window-height="1031"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52697753"
-     inkscape:cx="71.812839"
+     inkscape:zoom="1.4905175"
+     inkscape:cx="-240.34468"
      inkscape:cy="40.019512"
      inkscape:window-x="0"
      inkscape:window-y="26"
@@ -347,7 +347,7 @@
      inkscape:current-layer="svg2" />
   <g
      id="g1197"
-     transform="translate(0.94880296,1.8976141)">
+     transform="matrix(0.75945033,0,0,0.75945033,0.77673719,3.515139)">
     <g
        transform="translate(-169.06879,-0.67090791)"
        id="g1164">
