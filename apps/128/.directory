@@ -1,4 +1,5 @@
 [Dolphin]
-SortRole=modificationtime
-Timestamp=2019,2,3,9,33,52
+GroupedSorting=true
+SortRole=size
+Timestamp=2019,2,4,16,6,54
 Version=4
