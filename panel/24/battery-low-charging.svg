@@ -30,9 +30,9 @@
      inkscape:window-height="1027"
      id="namedview11"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="0.61282971"
-     inkscape:cy="10.927158"
+     inkscape:zoom="16"
+     inkscape:cx="10.690955"
+     inkscape:cy="7.427158"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -272,11 +272,125 @@
          in2="BackgroundImage"
          id="feBlend7556-0-2" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-61">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-98" />
+    </filter>
+    <filter
+       id="filter7554-5-8"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-6"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-84">
+      <feBlend
+         id="feBlend7556-6-1"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7-71"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-0-3"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-35-2"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-35-1"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-5-9-1">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-4-5-9" />
+    </filter>
+    <filter
+       id="filter7554-6-3-8"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6-2-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-2-7">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-9-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-29-9">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-3-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-0-9">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-5-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-3-6">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-48-5" />
+    </filter>
+    <filter
+       id="filter7554-5-3-1"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-4-5"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-8-6">
+      <feBlend
+         id="feBlend7556-6-4-2"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7-7-1"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-0-2-4"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
   </defs>
   <path
      style="clip-rule:evenodd;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke-width:1.16666663;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     d="M 2.5 5 C 0.5 5 0 5.5 0 7.5 L 0 15.5 C 0 17.5 0.5 18 2.5 18 L 8.5292969 18 L 8.5292969 17 L 2.5 17 C 1 17 1 17 1 15.5 L 1 7.5 C 1 6 1 6 2.5 6 L 9 6 L 9.5 5 L 2.5 5 z M 11 5 L 7 13 L 11 13 L 10 18 L 14 10 L 10 10 L 11 5 z M 12.5 5 L 12.5 6 L 18.5 6 C 20 6 20 6 20 7.5 L 20 15.5 C 20 17 20 17 18.5 17 L 12.042969 17 L 11.5 18 L 19 18 C 20.5 18 21 17.5 21 15.5 L 21 7.5 C 21 5.5 20.5 5 19 5 L 12.5 5 z M 2.5 7.5 L 2.5 15.5 L 9 15.5 L 9.5 14 L 5.5 14 L 8.53125 7.5 L 2.5 7.5 z M 12 7.5 L 11.5 9 L 16 9 L 12.5 15.5 L 18.5 15.5 L 18.5 7.5 L 12 7.5 z M 22 9 L 22 14 C 24.5 14 24.5 9 22 9 z "
-     id="path2-7" />
+     d="M 2.5,5 C 0.5,5 0,5.5 0,7.5 v 8 c 0,2 0.5,2.5 2.5,2.5 H 8 V 17 H 2.5 C 1,17 1,17 1,15.5 v -8 C 1,6 1,6 2.5,6 h 6 L 9,5 Z m 8,0 -3.5,8 h 4 l -1,5 h 0.5 L 14,10 h -4 l 1,-5 z m 2,0 v 1 h 6 C 20,6 20,6 20,7.5 v 8 C 20,17 20,17 18.5,17 h -6 L 12,18 h 7 c 1.5,0 2,-0.5 2,-2.5 v -8 C 21,5.5 20.5,5 19,5 Z m -10,2.5 v 8 h 6 L 9,14.5 H 5 l 3,-7 z m 10,0 -0.5,1 h 4.5 l -3.5,7 h 5.5 v -8 z M 22,9 v 5 c 2.5,0 2.5,-5 0,-5 z"
+     id="path2-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssccssssccscccccccccccssssccsssscccccccccccccccccc" />
   <g
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
      id="g908"
