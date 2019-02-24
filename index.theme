@@ -2,7 +2,7 @@
 Name=Mojave-CT
 Comment=icon theme with appearance an MACOS SIERRA
 
-Inherits=Adwaita,breeze,breeze-dark,hicolor,gnome
+Inherits=Adwaita,breeze,breeze-dark,hicolor,gnome,elementary
 
 Example=directory-x-normal
 KDE-Extensions=.svg
