@@ -30,16 +30,18 @@
      inkscape:window-height="1027"
      id="namedview11"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="14.509628"
-     inkscape:cy="8.3143786"
+     inkscape:zoom="22.627417"
+     inkscape:cx="14.226521"
+     inkscape:cy="6.4850583"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384">
     <inkscape:grid
        type="xygrid"
-       id="grid843" />
+       id="grid843"
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <metadata
      id="metadata90">
@@ -193,6 +195,6 @@
   </defs>
   <path
      style="clip-rule:evenodd;fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke-width:1.16666663;stroke-linejoin:round;stroke-miterlimit:1.41420996"
-     d="M 2 6 C 0 6 0 6 0 8 L 0 16 C 0 18 0 18 2 18 L 18.998047 18 C 20.998047 18 20.998047 18 20.998047 16 L 20.998047 8 C 20.998047 6 20.998047 6 18.998047 6 L 2 6 z M 2 7 L 18.998047 7 C 19.998047 7 19.998047 7 19.998047 8 L 19.998047 16 C 19.998047 17 19.998047 17 18.998047 17 L 2 17 C 1 17 1 17 1 16 L 1 8 C 1 7 1 7 2 7 z M 2 8 L 2 16 L 19 16 L 19 8 L 2 8 z M 22 10 L 22 14 C 24 14 24 10 22 10 z "
+     d="M 2.5 5 C 0.5 5 0 5.5 0 7.5 L 0 15.5 C 0 17.5 0.5 18 2.5 18 L 19 18 C 20.5 18 21 17.5 21 15.5 L 21 7.5 C 21 5.5 20.5 5 19 5 L 2.5 5 z M 2.5 6 L 18.5 6 C 20 6 20 6 20 7.5 L 20 15.5 C 20 17 20 17 18.5 17 L 2.5 17 C 1 17 1 17 1 15.5 L 1 7.5 C 1 6 1 6 2.5 6 z M 2.5 7.5 L 2.5 15.5 L 18.5 15.5 L 18.5 7.5 L 2.5 7.5 z M 22 9 L 22 14 C 24.5 14 24.5 9 22 9 z "
      id="path2-7" />
 </svg>
