@@ -1,6 +1,6 @@
 
 
-<center>https://i.imgur.com/fhQKwGo.png</center>
+![Mojave CT](https://i.imgur.com/fhQKwGo.png)
 
  
 Mojave CT icons is the set of icons of similar appearance to macOS, more complete at the moment, its name is derived from the word "Mojave" used in the latest version of the apple operating system, and the letters "CT" derives from the old project " Cratos Lion "which was also inspired by macos.
