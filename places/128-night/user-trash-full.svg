@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="edittrash.svg">
+   sodipodi:docname="gnome-fs-trash-full.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1298,16 +1298,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497477"
-     inkscape:cx="-44.559548"
-     inkscape:cy="8.6285506"
+     inkscape:zoom="2.8000001"
+     inkscape:cx="123.69199"
+     inkscape:cy="63.985691"
      inkscape:document-units="mm"
      inkscape:current-layer="g9297"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -1568,12 +1568,6 @@
          id="path1629"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccsccscccc" />
-      <path
-         sodipodi:nodetypes="ccccscccc"
-         inkscape:connector-curvature="0"
-         id="path6728"
-         d="m 20.844977,258.32025 c -6.664916,0 -12.0680202,4.68643 -12.0680309,6.35267 l 0.021356,0.17283 c 2.6e-5,1.2e-4 -2.85e-5,1.8e-4 0,3.7e-4 0.3595259,1.58554 5.6146499,2.8435 12.0466749,2.84348 6.433162,2e-5 11.689196,-1.25834 12.047068,-2.84428 l 0.02096,-0.17242 c -7e-6,-1.66624 -5.403114,-5.95385 -12.06803,-5.95385 z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.54199997;fill:url(#linearGradient6730);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.69489622;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
       <path
          style="opacity:0.54000005;fill:url(#radialGradient1044);fill-opacity:1;stroke:none;stroke-width:0.01781367;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.13736267;paint-order:fill markers stroke"
          id="path1036"
