@@ -104,7 +104,7 @@ Type=Scalable
 Size=16
 Context=Devices
 MinSize=8
-MaxSize=512
+MaxSize=32
 Type=Scalable
 
 [mimes/scalable]
@@ -119,7 +119,7 @@ Type=Scalable
 [places/128]
 Size=128
 Context=Places
-MinSize=32
+MinSize=8
 MaxSize=512
 Type=Scalable
 
