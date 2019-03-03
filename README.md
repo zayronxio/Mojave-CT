@@ -19,7 +19,7 @@ Mojave CT icons is the set of icons of similar appearance to macOS, more complet
 ![apps](https://i.imgur.com/nRdUAwf.png)
 
 
-- Support for MacOS night mode
+- Support for MacOS night mode.
 ![apps](https://i.imgur.com/gz1yMPW.png)
 
 
