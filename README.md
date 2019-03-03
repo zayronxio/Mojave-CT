@@ -21,6 +21,7 @@ In addition to replicating the mac icons, I also create some with similar design
 
 
 Support for MacOS night mode.
+
 ![folders](https://i.imgur.com/gz1yMPW.png)
 
 
