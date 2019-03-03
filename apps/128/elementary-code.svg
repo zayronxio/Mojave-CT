@@ -15,22 +15,10 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="elementary-code.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="io.elementary.code.svg">
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1308">
-      <stop
-         style="stop-color:#eed198;stop-opacity:1"
-         offset="0"
-         id="stop1304" />
-      <stop
-         style="stop-color:#d5ae61;stop-opacity:1"
-         offset="1"
-         id="stop1306" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1057">
@@ -454,15 +442,6 @@
          style="stop-color:rgb(32.941177%,43.137255%,47.843137%);stop-opacity:1;"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1308"
-       id="linearGradient1310"
-       x1="15.023226"
-       y1="272.38184"
-       x2="20.882055"
-       y2="286.56119"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -472,15 +451,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="77.708322"
+     inkscape:cx="63.168439"
      inkscape:cy="57.342019"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -492,7 +471,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -772,7 +751,7 @@
     <path
        id="path1093-2"
        d="m 13.572214,273.80601 c -1.242523,0.21935 -1.866256,0.52185 -2.423657,1.01206 -0.55212,0.48251 -0.742562,1.13354 -0.601062,1.93506 l 0.421661,2.38846 c 0.08468,0.47963 -0.0687,0.85191 -0.403812,1.15337 -0.332488,0.29764 -1.1502722,0.59145 -1.9228257,0.72784 l 0.2562931,1.45175 c 1.5225726,-0.2688 2.6653366,0.0373 2.8341156,0.99334 l 0.384156,2.17601 c 0.155139,0.87878 0.556046,1.49513 1.200999,1.78287 0.655753,0.29253 1.361478,0.36044 2.682959,0.1371 l -0.246633,-1.39703 c -0.658324,0.10656 -1.018527,0.0404 -1.34949,-0.12397 -0.331027,-0.16412 -0.522835,-0.44211 -0.597279,-0.86378 l -0.40803,-2.31124 c -0.18185,-1.03008 -0.804857,-1.55076 -2.147368,-1.50295 l -0.0193,-0.10931 c 1.274875,-0.43094 1.678537,-1.15272 1.498391,-2.17313 l -0.403471,-2.28545 c -0.07445,-0.4217 0.01453,-0.72617 0.269946,-0.99036 0.258113,-0.26781 0.575418,-0.46336 1.221102,-0.60392 z m 6.544159,-1.15532 0.246633,1.39703 c 0.654627,-0.0899 1.019868,-0.014 1.354075,0.1493 0.330422,0.16069 0.518289,0.41635 0.592739,0.83806 l 0.403476,2.28545 c 0.180145,1.02042 0.806561,1.56041 2.151917,1.5287 l 0.0193,0.10931 c -1.277736,0.41474 -1.684792,1.1173 -1.502941,2.14737 l 0.408028,2.31124 c 0.07444,0.42168 -0.01055,0.74868 -0.265404,1.01609 -0.251665,0.26667 -0.570682,0.45258 -1.225649,0.57817 l 0.246633,1.39703 c 1.321345,-0.24293 1.957904,-0.54799 2.473831,-1.04749 0.510656,-0.49177 0.673066,-1.20757 0.517929,-2.08634 l -0.384155,-2.176 c -0.16878,-0.95604 0.800094,-1.63493 2.322669,-1.90373 l -0.256295,-1.45175 c -0.772553,0.13639 -1.64149,0.14046 -2.052598,-0.026 -0.421296,-0.16778 -0.692871,-0.46518 -0.777549,-0.94482 l -0.421659,-2.38845 c -0.141503,-0.80153 -0.543366,-1.34797 -1.227312,-1.61227 -0.691539,-0.2696 -1.380598,-0.33715 -2.623123,-0.1178 z m 0,0"
-       style="fill:url(#linearGradient1310);fill-rule:nonzero;stroke:none;stroke-width:0.83679885;fill-opacity:1"
+       style="fill:#f7f4ef;fill-rule:nonzero;stroke:none;stroke-width:0.83679885;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

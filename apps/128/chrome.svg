@@ -13,8 +13,8 @@
    width="136.53333"
    version="1.1"
    id="svg29"
-   sodipodi:docname="chrome.svg"
-   inkscape:version="0.92.1 r15371">
+   sodipodi:docname="chrome-browser.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -82,14 +82,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1027"
      id="namedview31"
      showgrid="false"
      inkscape:zoom="1.2222452"
-     inkscape:cx="38.793929"
+     inkscape:cx="-95.79445"
      inkscape:cy="54.047029"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg29" />
   <linearGradient
@@ -103,12 +103,12 @@
        offset="0"
        stop-color="#f26c56"
        id="stop2"
-       style="stop-color:#f05940;stop-opacity:1" />
+       style="stop-color:#f3381a;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#ef5136"
        id="stop4"
-       style="stop-color:#e82605;stop-opacity:1" />
+       style="stop-color:#ce1f02;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="b"
@@ -121,12 +121,12 @@
        offset="0"
        stop-color="#33ed85"
        id="stop7"
-       style="stop-color:#12c862;stop-opacity:1" />
+       style="stop-color:#10b458;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#11c560"
        id="stop9"
-       style="stop-color:#079c4c;stop-opacity:1" />
+       style="stop-color:#068e45;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="c"
@@ -144,7 +144,7 @@
        offset="1"
        stop-color="#e3ca1d"
        id="stop14"
-       style="stop-color:#f8c208;stop-opacity:1" />
+       style="stop-color:#f8ae08;stop-opacity:1" />
   </linearGradient>
   <circle
      cx="68.953224"
