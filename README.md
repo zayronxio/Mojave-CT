@@ -13,8 +13,16 @@ Mojave CT icons is the set of icons of similar appearance to macOS, more complet
 - own designs and replicas
 - compatible with all desks
 
-In addition to replicating the mac icons, I also create some with similar design for other applications.
-![Mojave CT](https://i.imgur.com/nRdUAwf.png)
+
+
+- In addition to replicating the mac icons, I also create some with similar design for other applications.
+![apps](https://i.imgur.com/nRdUAwf.png)
+
+
+- Support for MacOS night mode
+![apps](https://i.imgur.com/gz1yMPW.png)
+
+
 
 ## Donations
 If you like my job and you want to help me, invite me to a cafe. Here is a link so you can donate through PayPal if you wish: [donate](https://www.paypal.me/zayronxio)
