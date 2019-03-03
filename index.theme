@@ -119,7 +119,7 @@ Type=Scalable
 [places/128]
 Size=128
 Context=Places
-MinSize=8
+MinSize=32
 MaxSize=512
 Type=Scalable
 
