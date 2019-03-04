@@ -1,5 +1,5 @@
 [Dolphin]
 GroupedSorting=true
-SortRole=modificationtime
-Timestamp=2019,3,3,17,47,7
+SortRole=type
+Timestamp=2019,3,3,18,19,44
 Version=4
