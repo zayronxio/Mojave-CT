@@ -15,7 +15,7 @@
    width="128"
    height="128"
    viewBox="0 0 128 128"
-   sodipodi:docname="raven-reader.svg"
+   sodipodi:docname="appimagekit-raven-reader.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata8">
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,30 +49,18 @@
       <stop
          id="stop817"
          offset="0"
-         style="stop-color:#16d97f;stop-opacity:1" />
-      <stop
-         style="stop-color:#e3a74f;stop-opacity:1;"
-         offset="0.55782819"
-         id="stop833" />
-      <stop
-         style="stop-color:#e7a74f;stop-opacity:1"
-         offset="0.67282188"
-         id="stop831" />
-      <stop
-         id="stop835"
-         offset="0.77059168"
-         style="stop-color:#eba656;stop-opacity:1;" />
+         style="stop-color:#d8d97f;stop-opacity:1" />
       <stop
          id="stop819"
          offset="1"
-         style="stop-color:#fda277;stop-opacity:1" />
+         style="stop-color:#fda286;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="110.5587"
        x2="96.929321"
-       y1="1.523791"
-       x1="19.922445"
+       y1="25.148802"
+       x1="36.229977"
        id="linearGradient823"
        xlink:href="#linearGradient821"
        inkscape:collect="always"
@@ -98,11 +86,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="5.056"
-     inkscape:cx="44.395672"
+     inkscape:cx="0.88301377"
      inkscape:cy="48.03983"
      inkscape:window-x="0"
      inkscape:window-y="30"
