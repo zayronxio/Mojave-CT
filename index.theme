@@ -137,7 +137,11 @@ Type=Scalable
 Size=16
 Context=Status
 MinSize=8
-MaxSize=24
+<<<<<<< Updated upstream
+MaxSize=22
+=======
+MaxSize=256
+>>>>>>> Stashed changes
 Type=Scalable
 
 [status/scalable]
@@ -150,16 +154,16 @@ Type=Scalable
 [panel/24]
 Size=24
 Context=Status
-MinSize=24
-MaxSize=256
+MinSize=8
+MaxSize=128
 Type=Scalable
 
 
 [panel/16]
 Size=16
 Context=Status
-MinSize=1
-MaxSize=22
+MinSize=8
+MaxSize=24
 Type=Scalable
 
 [stock/16]
