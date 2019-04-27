@@ -150,7 +150,7 @@ Type=Scalable
 [panel/24]
 Size=24
 Context=Status
-MinSize=24
+MinSize=25
 MaxSize=256
 Type=Scalable
 
@@ -159,7 +159,7 @@ Type=Scalable
 Size=16
 Context=Status
 MinSize=1
-MaxSize=22
+MaxSize=24
 Type=Scalable
 
 [stock/16]
