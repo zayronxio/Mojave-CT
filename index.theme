@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Mojave-CT
-Comment=icon theme with appearance an MACOS SIERRA
+Comment=icon pack inspired by MacOS Mojave
 
 Inherits=Adwaita,breeze,breeze-dark,hicolor,gnome,elementary
 
@@ -8,7 +8,7 @@ Example=directory-x-normal
 KDE-Extensions=.svg
 
 #Directory list
-Directories=actions/16-fixed,actions/22,actions/symbolic,actions/scalable,animations/16,animations/22,animations/24,animations/32,animations/48,animations/64,animations/128,apps/128,apps/512,categories/128,places/128,places/symbolic,mimes/scalable,devices/128,devices/symbolic,status/symbolic,status/symbolic-scalable,status/scalable,panel/24,panel/16,stock/16,stock/22,stock/24,stock/32,stock/48,emblems/scalable
+Directories=actions/16-fixed,actions/22,actions/symbolic,actions/scalable,animations/16,animations/22,animations/24,animations/32,animations/48,animations/64,animations/128,apps/128,apps/512,categories/128,places/128,places/symbolic,mimes/scalable,devices/128,devices/symbolic,status/symbolic,status/symbolic-scalable,status/scalable,panel/24,panel/22,panel/16,stock/16,stock/22,stock/24,stock/32,stock/48,emblems/scalable
 
 ########### actions#######
 [actions/16-fixed]
