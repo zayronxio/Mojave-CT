@@ -42,7 +42,7 @@ from opendesktop you will have 3 different versions available,
  - dark mode. for the imitation of the dark mode in mojave macos, with clear icons for panel and menus.
 folders more ocuras, and better integrated in the totally dark subjects
 
-[<img src="https://i.imgur.com/SWAXdFr.png">](https://www.opendesktop.org/p/1210856/#files-panel) [<img src="https://i.imgur.com/gxX8nJ0.png">](https://github.com/zayronxio/Mojave-CT/releases) 
+[<img src="https://i.imgur.com/qgvFzxq.png">](https://www.opendesktop.org/p/1210856/#files-panel) 
 ### Installing the icons
 
    - Move the folder of icons to `~/.local/share/icons` (in user mode), for user in kde move the folder of icons to `.local/share/icons` or `/usr/share/icons` (in root mode).
