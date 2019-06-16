@@ -13,7 +13,7 @@
    width="128"
    version="1.1"
    id="svg24"
-   sodipodi:docname="libreoffice34-calc.svg"
+   sodipodi:docname="libreofficedev6.1-calc.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata30">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,14 +98,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1028"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="65.23831"
-     inkscape:cy="66.532147"
+     inkscape:zoom="7.375"
+     inkscape:cx="-16.272603"
+     inkscape:cy="28.668666"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg24" />
   <linearGradient
@@ -166,70 +166,6 @@
      style="fill:url(#linearGradient856);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 84.25 7.0410156 L 100.12695 111.54688 L 111.92773 112.35352 C 115.40211 112.59071 118.38975 109.98414 118.62695 106.50977 L 124.79883 16.109375 C 125.03603 12.635002 122.42945 9.647355 118.95508 9.4101562 L 84.25 7.0410156 z "
      id="path846" />
-  <g
-     id="g941"
-     transform="translate(-152.94915,-0.54237288)">
-    <text
-       transform="rotate(-8.8112754)"
-       id="text913"
-       y="120.87115"
-       x="177.98343"
-       style="font-weight:bold;font-stretch:condensed;font-size:60.80290222px;font-family:'TeX Gyre Heros Cn';letter-spacing:0;word-spacing:0;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926">
-      <tspan
-         id="tspan911"
-         y="120.87115"
-         x="177.98343"
-         style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926">X</tspan>
-    </text>
-    <text
-       style="font-weight:bold;font-stretch:condensed;font-size:60.80290222px;font-family:'TeX Gyre Heros Cn';letter-spacing:0;word-spacing:0;fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926"
-       x="177.98343"
-       y="120.87115"
-       id="text917"
-       transform="rotate(-8.8112754)">
-      <tspan
-         style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926"
-         x="177.98343"
-         y="120.87115"
-         id="tspan915">X</tspan>
-    </text>
-    <text
-       transform="rotate(-8.8112754)"
-       id="text921"
-       y="120.87115"
-       x="177.98343"
-       style="font-weight:bold;font-stretch:condensed;font-size:60.80290222px;font-family:'TeX Gyre Heros Cn';letter-spacing:0;word-spacing:0;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926">
-      <tspan
-         id="tspan919"
-         y="120.87115"
-         x="177.98343"
-         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926">X</tspan>
-    </text>
-    <text
-       style="font-weight:bold;font-stretch:condensed;font-size:60.80290222px;font-family:'TeX Gyre Heros Cn';letter-spacing:0;word-spacing:0;fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926"
-       x="177.98343"
-       y="120.87115"
-       id="text925"
-       transform="rotate(-8.8112754)">
-      <tspan
-         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926"
-         x="177.98343"
-         y="120.87115"
-         id="tspan923">X</tspan>
-    </text>
-    <text
-       transform="rotate(-8.8112754)"
-       id="text929"
-       y="120.87115"
-       x="177.98343"
-       style="font-weight:bold;font-stretch:condensed;font-size:60.80290222px;font-family:'TeX Gyre Heros Cn';letter-spacing:0;word-spacing:0;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926">
-      <tspan
-         id="tspan927"
-         y="120.87115"
-         x="177.98343"
-         style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.04326926">X</tspan>
-    </text>
-  </g>
   <text
      transform="rotate(-8.8112754)"
      id="text861-8"
