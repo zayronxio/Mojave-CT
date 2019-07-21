@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="video.svg">
+   sodipodi:docname="video-x-mkv.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -203,9 +203,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69501324"
-     inkscape:cx="39.373701"
-     inkscape:cy="28.474657"
+     inkscape:zoom="2.780053"
+     inkscape:cx="71.229302"
+     inkscape:cy="16.20735"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -502,5 +502,16 @@
        id="path1196"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.901902"
+       y="294.23999"
+       id="text2360"><tspan
+         sodipodi:role="line"
+         id="tspan2358"
+         x="10.901902"
+         y="294.23999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#666666;stroke-width:0.26458332">MKV</tspan></text>
   </g>
 </svg>
